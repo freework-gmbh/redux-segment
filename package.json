@@ -1,6 +1,6 @@
 {
   "name": "@freework/redux-segment",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "description": "Segment.io analytics integration for redux.",
   "main": "dist/index.js",
   "scripts": {
